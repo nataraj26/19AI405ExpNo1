@@ -1,6 +1,6 @@
 <h1>Exp No 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Nemaleshwar H </h3>
-<h3>Register Number: 212223230142</h3>
+<h3>Name: Nataraj Kumaran </h3>
+<h3>Register Number: 212223230137</h3>
 
 
 # AIM:
@@ -251,7 +251,8 @@ if   __name__ == "__main__":
 
 
 # OUTPUT:
-![Alt text](image.png)
+![aiex1](https://github.com/nataraj26/19AI405ExpNo1/assets/147514615/3b7071bf-46f6-47e1-ac19-bcef2dd2546b)
+
 
 # RESULT:
 Thus, an AI agent is developed.
